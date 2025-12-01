@@ -13,7 +13,6 @@ I'm a full-stack developer with a passion for AI and machine learning. I build i
 -  Working on exciting AI and machine learning projects
 -  Buildsing full-stack web applications with modern technologies
 -  Constantly learning and exploring new tech
--  Open to collaborations and open source contributions
 -  Focused on writing clean, efficient, and scalable code
 -  Reach me at: **dsouzalisha24@gmail.com**
 
@@ -59,13 +58,7 @@ I'm a full-stack developer with a passion for AI and machine learning. I build i
 
 </div>
 
-<div align="center">
 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lishadsza&theme=default" alt="Top Languages by repo">
-
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lishadsza&theme=default" alt="Top Languages by commit">
-
-</div>
 ---
 
 ## 🤝 Let's Connect
