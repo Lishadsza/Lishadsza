@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer specializing in AI projects and full-stack web development.
+I'm a full-stack developer with a passion for AI and machine learning. I build intelligent applications using modern web technologies and enjoy solving complex problems through code. With strong communication skills and a collaborative mindset, I'm always eager to learn new technologies and contribute to innovative projects.
 
 -  Working on exciting AI and machine learning projects
 -  Buildsing full-stack web applications with modern technologies
@@ -39,12 +39,33 @@ I'm a developer specializing in AI projects and full-stack web development.
 
 ---
 
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lishadsza&show_icons=true&theme=radical&hide_border=true)
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lishadsza&layout=compact&theme=radical&hide_border=true)
+<div align="center">
 
+  
+
+![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lishadsza)
+
+</div>
+
+<div align="center">
+
+  
+
+[![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lishadsza&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lishadsza&theme=default" alt="Top Languages by repo">
+
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lishadsza&theme=default" alt="Top Languages by commit">
+
+</div>
 ---
 
 ## 🤝 Let's Connect
