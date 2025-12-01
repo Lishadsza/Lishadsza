@@ -1,62 +1,110 @@
-<!-- Header -->
-# Hi there! 👋 I'm Lisha <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lishadsza)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lishadsza)
+# Hi there! 👋 I'm Lisha
 
-I'm a passionate learner with a strong background in web development, design, and project management. Welcome to my GitHub profile, where I showcase my projects and contributions across various technologies.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<!-- Technologies -->
-## Technologies & Tools
+[![Profile Views](https://komarev.com/ghpvc/?username=Lishadsza&color=blueviolet&style=flat-square)](https://github.com/Lishadsza)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lishadsza)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+**AI Enthusiast | Full-Stack Web Developer | Quick Learner**
 
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Leadership-FFD700?style=for-the-badge" alt="Leadership">
-  <img src="https://img.shields.io/badge/Communication-2196F3?style=for-the-badge" alt="Communication">
-  <img src="https://img.shields.io/badge/Problem Solving-FF7043?style=for-the-badge" alt="Problem Solving">
-  <img src="https://img.shields.io/badge/Collaboration-8BC34A?style=for-the-badge" alt="Collaboration">
-</p>
+</div>
 
-<!-- GitHub Stats -->
-## GitHub Stats
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate developer specializing in AI projects and full-stack web development. I love building intelligent applications and solving complex problems with code. With a strong foundation in multiple programming languages and modern frameworks, I enjoy creating innovative solutions that make a difference.
+
+- 🤖 Working on exciting AI and machine learning projects
+- � Buildsing full-stack web applications with modern technologies
+- 🌱 Constantly learning and exploring new tech
+- 💡 Open to collaborations and open source contributions
+- 🎯 Focused on writing clean, efficient, and scalable code
+- 📫 Reach me at: **dsouzalisha24@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Soft Skills
+![Communication](https://img.shields.io/badge/Communication-2196F3?style=for-the-badge)
+![Team_Collaboration](https://img.shields.io/badge/Team_Collaboration-8BC34A?style=for-the-badge)
+![Problem_Solving](https://img.shields.io/badge/Problem_Solving-FF7043?style=for-the-badge)
+![Quick_Learner](https://img.shields.io/badge/Quick_Learner-9C27B0?style=for-the-badge)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
   
-![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lishadsza)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lishadsza&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lishadsza&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lishadsza&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 <div align="center">
-  
-[![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lishadsza&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lishadsza&theme=react-dark&hide_border=true)](https://github.com/Lishadsza)
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lishadsza&theme=default" alt="Top Languages by repo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lishadsza&theme=default" alt="Top Languages by commit">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lishadsza&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/Lishadsza)
+
 </div>
 
-<!-- Contact Me -->
-## Let's Collaborate
+---
 
-<a href="mailto:dsouzalisha24@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://linkedin.com/in/lishadsza"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+## 🤝 Let's Connect
 
-Feel free to reach out for collaborations, open source contributions, or discussions on cool tech projects!
+I'm always open to interesting conversations and collaboration opportunities!
 
-<!-- Footer -->
-## Thank You for Visiting!
+<div align="center">
 
-Thank you for stopping by my profile! I appreciate your time and interest. Don't hesitate to explore my repositories and connect with me. Let's build something great together!
+[![Email](https://img.shields.io/badge/Email-dsouzalisha24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsouzalisha24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lisha_D'Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lishadsza)
 
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ✨ Thank You for Visiting!
+
+*Feel free to explore my repositories and don't hesitate to reach out. Let's build something amazing together!*
+
+![](https://komarev.com/ghpvc/?username=Lishadsza&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
